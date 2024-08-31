@@ -1,6 +1,6 @@
 ---
 layout: page
-title: (주)세진테
+title: (주)세진테크
 subtitle: 차량 단열제 및 흡음제 제조 공장
 cover-img: /assets/img/itu-seokho-m4.jpg
 ---
