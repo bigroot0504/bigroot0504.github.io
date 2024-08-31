@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Cloud Researcher
-subtitle: Artificial Intelligence Research Laboratory, ETRI
+title: (주)세진테
+subtitle: 차량 단열제 및 흡음제 제조 공장
 cover-img: /assets/img/itu-seokho-m4.jpg
 ---
 
